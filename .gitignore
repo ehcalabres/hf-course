@@ -133,3 +133,4 @@ data/*
 
 # Ignore trained models
 models/*
+Aditional work/models/*
